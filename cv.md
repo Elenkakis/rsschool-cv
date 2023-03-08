@@ -1,9 +1,10 @@
 [rsschool-cv]()
-## Elena Andreeva  ![Елена Андреева](/image/me.jpg)
-###Junior Frontend Developer
+## Elena Andreeva  
+! [Елена Андреева] (/image/me.jpg)
+### Junior Frontend Developer
 ```
-###Contact information:
-####Phone:
+### Contact information:
+#### Phone:
 +79776512144 (Russia)
 +995557229881 (Georgia)
 E-mail: elenkakisl@mail.ru
