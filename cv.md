@@ -1,22 +1,25 @@
 [rsschool-cv]()
-******
-** ## Elena Andreeva  **
+----
+**## Elena Andreeva**
 ![Елена Андреева](/image/me.jpg)
-* ### Junior Frontend Developer *
-=========
+
+***### Junior Frontend Developer***
+----
 ### Contact information:
-#### Phone:
-+79776512144 (Russia)
-+995557229881 (Georgia)
-E-mail: elenkakisl@mail.ru
-GitHub: [Elenkakis](https://github.com/Elenkakis)
-GitLab: [Elena](https://gitlab.com/elenkakisl)
-Telegram: @elenkakisl
-Instagram: [Elenkakisl](https://www.instagram.com/elenkakisl/)
-=========
+###### Phone:
+- *+79776512144 (Russia)*
+- *+995557229881 (Georgia)*
+- E-mail: *elenkakisl@mail.ru*
+- GitHub: *[Elenkakis](https://github.com/Elenkakis)*
+- GitLab: *[Elena](https://gitlab.com/elenkakisl)*
+- Telegram: *@elenkakisl*
+- Instagram: *[Elenkakisl](https://www.instagram.com/elenkakisl/)*
+
+******
+
 ### About myself:
- I am 28 y.o. I worked as an design engineer in Moscow last 6 years. I decided to change my sphere when moved abroad. I am really appreciate this sphere for opportunity to work remoutly and find out new every day.
-=========
+I am 28 y.o. I worked as an design engineer in Moscow last 6 years. I decided to change my sphere when moved abroad. I am really appreciate this sphere for opportunity to work remoutly and find out new every day.
+----
 ### Skills and Profiency:
 - HTML5, CSS
 - GitHub
@@ -36,6 +39,7 @@ Bachelor of Industrial and Civil Engineering
 ### Courses:
 * 2021 [Nordic IT School](https://inordic.ru/) web-development
 * 2022 CS50 (online harvard lectures)
+
 =======
 
 ### Work expirience:
