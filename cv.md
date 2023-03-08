@@ -6,8 +6,8 @@
 ----
 ### Contact information:
 #### Phone:
-- *+79776512144 (Russia)*
-- *+995557229881 (Georgia)*
+- *+7(977)651 2144 (Russia)*
+- *+995 557 229881 (Georgia)*
 ##### E-mail: *elenkakisl@mail.ru*
 ##### GitHub: *[Elenkakis](https://github.com/Elenkakis)*
 ##### GitLab: *[Elenkakisl](https://gitlab.com/elenkakisl)*
