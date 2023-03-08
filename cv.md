@@ -5,14 +5,14 @@
 ### ***Junior Frontend Developer***
 ----
 ### Contact information:
-###### Phone:
+#### Phone:
 - *+79776512144 (Russia)*
 - *+995557229881 (Georgia)*
-- E-mail: *elenkakisl@mail.ru*
-- GitHub: *[Elenkakis](https://github.com/Elenkakis)*
-- GitLab: *[Elenkakisl](https://gitlab.com/elenkakisl)*
-- Telegram: *@elenkakisl*
-- Instagram: *[Elenkakisl](https://www.instagram.com/elenkakisl/)*
+##### E-mail: *elenkakisl@mail.ru*
+##### GitHub: *[Elenkakis](https://github.com/Elenkakis)*
+##### GitLab: *[Elenkakisl](https://gitlab.com/elenkakisl)*
+##### Telegram: *@elenkakisl*
+##### Instagram: *[Elenkakisl](https://www.instagram.com/elenkakisl/)*
 
 ******
 
@@ -28,11 +28,11 @@ I am 28 y.o. I worked as an design engineer in Moscow last 6 years. I decided to
 - VS Code
 - AutoCAD, Adobe
 
-=======
+******
 
 ### Code examles:
 
-=======
+******
 
 ### Education:
 * 2018 - 2016 The Moscow State University of Technology "STANKIN" (MSUT "STANKIN") 
@@ -43,7 +43,7 @@ Bachelor of Industrial and Civil Engineering
 * 2021 [Nordic IT School](https://inordic.ru/) web-development
 * 2022 CS50 (online harvard lectures)
 
-=======
+*******
 
 ### Work expirience:
 * 2017 - 2021 design engineer (OOO Lider), Moscow
