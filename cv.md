@@ -1,9 +1,8 @@
 [rsschool-cv]()
 ----
-**## Elena Andreeva**
 ![Елена Андреева](/image/me.jpg)
-
-***### Junior Frontend Developer***
+## **Elena Andreeva**
+### ***Junior Frontend Developer***
 ----
 ### Contact information:
 ###### Phone:
@@ -11,15 +10,18 @@
 - *+995557229881 (Georgia)*
 - E-mail: *elenkakisl@mail.ru*
 - GitHub: *[Elenkakis](https://github.com/Elenkakis)*
-- GitLab: *[Elena](https://gitlab.com/elenkakisl)*
+- GitLab: *[Elenkakisl](https://gitlab.com/elenkakisl)*
 - Telegram: *@elenkakisl*
 - Instagram: *[Elenkakisl](https://www.instagram.com/elenkakisl/)*
 
 ******
 
 ### About myself:
+
 I am 28 y.o. I worked as an design engineer in Moscow last 6 years. I decided to change my sphere when moved abroad. I am really appreciate this sphere for opportunity to work remoutly and find out new every day.
-----
+
+-------
+
 ### Skills and Profiency:
 - HTML5, CSS
 - GitHub
@@ -27,6 +29,7 @@ I am 28 y.o. I worked as an design engineer in Moscow last 6 years. I decided to
 - AutoCAD, Adobe
 
 =======
+
 ### Code examles:
 
 =======
