@@ -18,7 +18,7 @@
 
 ### About myself:
 
-I am 28 y.o. I worked as an design engineer in Moscow last 6 years. I decided to change my sphere when moved abroad. I am really appreciate this sphere for opportunity to work remoutly and find out new every day.
+I am 28 y.o. I worked as a design engineer in Moscow last 6 years. I decided to change my sphere when moved abroad. I am really appreciate this sphere for opportunity to work remoutly and find out new every day.
 
 -------
 
@@ -28,16 +28,24 @@ I am 28 y.o. I worked as an design engineer in Moscow last 6 years. I decided to
 - VS Code
 - AutoCAD, Adobe
 
-******
-
 ### Code examles:
+
+Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
+
+```
+function createPhoneNumber(numbers){
+  return '('+numbers[0]+numbers[1]+numbers[2]+') '
+  +numbers[3]+numbers[4]+numbers[5]+ '-'
+  +numbers[6]+numbers[7]+numbers[8]+numbers[9];
+}
+```
 
 ******
 
 ### Education:
-* 2018 - 2016 The Moscow State University of Technology "STANKIN" (MSUT "STANKIN") 
+* 2018 - 2016: The Moscow State University of Technology "STANKIN" (MSUT "STANKIN") -
 Master of High Technology in tool processing
-* 2012 - 2016 Penza State University of Architecture and Construction 
+* 2012 - 2016: Penza State University of Architecture and Construction -
 Bachelor of Industrial and Civil Engineering
 ### Courses:
 * 2021 [Nordic IT School](https://inordic.ru/) web-development
@@ -46,8 +54,9 @@ Bachelor of Industrial and Civil Engineering
 *******
 
 ### Work expirience:
-* 2017 - 2021 design engineer (OOO Lider), Moscow
-* 2021 -2022 head of department of design engineer (OOO Kontur Proekt), Moscow
+* 2017-2019: engineer for the inspection of buildings and structures (OOO StroiIngProekt), Moscow
+* 2019 - 2021: design engineer (OOO Lider), Moscow
+* 2021 -2022: head of the design department (OOO Kontur Proekt), Moscow
 ### Languages:
 - Russian (native)
 - English (Intermediate)
